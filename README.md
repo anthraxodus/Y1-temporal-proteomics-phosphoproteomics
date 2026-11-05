@@ -74,7 +74,7 @@ Install the packages listed in `Combat_CoVariates/requirements.txt` from the `Co
 pip install -r requirements.txt
 ```
 
-The preprocessing notebook also imports `pycombat` using `from combat.pycombat import pycombat`; make sure `pycombat` is listed in `requirements.txt`.
+The preprocessing notebook also imports `pycombat` using `from combat.pycombat import pycombat`
 
 ### R
 
