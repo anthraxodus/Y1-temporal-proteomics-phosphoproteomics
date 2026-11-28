@@ -85,3 +85,5 @@ install.packages("BiocManager")
 BiocManager::install("limma")
 install.packages("openxlsx")
 ```
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24629325.svg)](https://doi.org/10.5281/zenodo.24629325)
